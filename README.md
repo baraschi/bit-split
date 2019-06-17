@@ -8,3 +8,4 @@ This implementation generates DOT graphs for the examples given in both papers.
 
 Contributor: [@endrix](https://github.com/endrix)
 
+A study on reconfigurable regex accelerators on FPGAs can be found in the PDF "Semester Project".
